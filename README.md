@@ -58,13 +58,16 @@ print(cm)
 
 ## Output:
 
-
+# SDG Classifier:
 ![image](https://github.com/user-attachments/assets/8c79d7c4-2fb3-4a69-b780-37f031a5a85b)
 
+# Accuracy:
 ![image](https://github.com/user-attachments/assets/9b4cb784-9c5e-4bac-9955-4bfdfbb21d29)
+# Confusion Matrix:
 
 ![image](https://github.com/user-attachments/assets/eae86d88-166c-4ee8-9369-884d697bf3da)
 
+# Classification Report:
 ![image](https://github.com/user-attachments/assets/6179e172-d5ad-4181-b465-36229bd410f8)
 
 
