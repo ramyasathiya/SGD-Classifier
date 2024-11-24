@@ -67,8 +67,7 @@ print(cm)
 
 ![image](https://github.com/user-attachments/assets/eae86d88-166c-4ee8-9369-884d697bf3da)
 
-# Classification Report:
-![image](https://github.com/user-attachments/assets/6179e172-d5ad-4181-b465-36229bd410f8)
+
 
 
 
